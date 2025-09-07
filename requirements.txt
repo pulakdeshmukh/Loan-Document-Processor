@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+opencv-python-headless
+Pillow
+pytesseract
+google-generativeai
+PyMuPDF
+pdfplumber
+pdf2image
+requests
+# sqlite3-binary

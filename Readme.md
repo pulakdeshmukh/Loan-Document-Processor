@@ -167,14 +167,14 @@ The Unified Loan Document Verification System is an intelligent document process
 
 Our dedicated development team:
 
-- [**Shubham Darekar**](https://github.com/shubham-darekar-placeholder) 
-- [**Jatin Bandawar**](https://github.com/jatin-bandawar-placeholder)  
-- [**Pranav Yedave**](https://github.com/pranav-yedave-placeholder)
+- [**Shubham Darekar**](https://github.com/Shubham0D4) 
+- [**Jatin Bandawar**](https://github.com/JatinBandawar)  
+- [**Pranav Yedave**](https://github.com/PranavYedave)
 - [**Sarang Gannarpawar**](https://github.com/sarang-gannarpawar-placeholder)
-- [**Anuj Yewle**](https://github.com/anuj-yewle-placeholder)
-- [**Saurabh Chikte**](https://github.com/saurabh-chitke-placeholder)
-- [**Sahil Gawande**](https://github.com/sahil-gawande-placeholder)
-- [**Pulak Deshmukh**](https://github.com/pulak-deshmukh-placeholder)
+- [**Anuj Yewlae**](https://github.com/Anuj774)
+- [**Saurabh Chikte**](https://github.com/saurabh2774)
+- [**Sahil Gawande**](https://github.com/sahilgawande31)
+- [**Pulak Deshmukh**](https://github.com/pulakdeshmukh)
 
 ## Project Structure
 

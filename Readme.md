@@ -1,4 +1,4 @@
-# Unified Loan Document Verification System 🏦
+# Unified Loan Document Processing System 🏦
 
 A comprehensive AI-powered document verification and loan eligibility assessment system that processes various financial documents including Aadhaar, PAN, salary slips, ITR, bank statements, and CIBIL reports.
 
@@ -172,7 +172,7 @@ Our dedicated development team:
 - [**Pranav Yedave**](https://github.com/pranav-yedave-placeholder)
 - [**Sarang Gannarpawar**](https://github.com/sarang-gannarpawar-placeholder)
 - [**Anuj Yewle**](https://github.com/anuj-yewle-placeholder)
-- [**Saurabh Chitke**](https://github.com/saurabh-chitke-placeholder)
+- [**Saurabh Chikte**](https://github.com/saurabh-chitke-placeholder)
 - [**Sahil Gawande**](https://github.com/sahil-gawande-placeholder)
 - [**Pulak Deshmukh**](https://github.com/pulak-deshmukh-placeholder)
 
